@@ -1,0 +1,6 @@
+# dune init project a5
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /Users/tanyaaravind/.cache/dune/db
+# Workspace root: /Users/tanyaaravind/3110/a5
+# Auto-detected concurrency: 8
